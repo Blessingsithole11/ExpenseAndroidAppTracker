@@ -16,8 +16,6 @@ Welcome to the Expense Tracker Android app! This project is designed to help use
 - **MVVM Architecture:** Model-View-ViewModel architecture for separating the UI, business logic, and data handling in the app.
 
 
-Be sure to check out the videos for a detailed guide on how to implement each feature.
-
 ## Getting Started
 
 ### Prerequisites
